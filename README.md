@@ -40,9 +40,9 @@ mvn spring-boot:run
 ```
 -Then, test the endpoints:
 -http://localhost:9000/HelloWorld
--http://localhost:9000/HelloWorld?name=(Your name)
+-http://localhost:9000/HelloWorld?name=(Yourname)
 -http://localhost:9000/HelloWorld2
--http://localhost:9000/HelloWorld2/(Your name)
+-http://localhost:9000/HelloWorld2/(Yourname)
 
 ---
 
